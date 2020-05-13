@@ -2,7 +2,7 @@ import steam
 
 import time
 
-steam.api.key.set('FB22ABDD88A7A653434553E731344007')
+steam.api.key.set('enter your api key in this string here')
 
 help_flag = True
 
