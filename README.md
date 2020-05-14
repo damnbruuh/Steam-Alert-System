@@ -3,7 +3,7 @@ A simple Python script to determine the states of a player using the Steam API.
 
 Standalone executable:
 
-Clone the executable and run the file. No dependencies required.
+Clone the executable and run the file. No dependencies required. (Work in progress)
 
 Python script:
 
