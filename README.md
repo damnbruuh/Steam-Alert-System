@@ -7,7 +7,7 @@ Clone the executable and run the file. No dependencies required. (Work in progre
 
 Python script:
 
-1. Install dependencies (pip install steamodd)
+1. Install dependencies ('pip install steamodd' in command prompt or terminal)
 2. Ensure you have Python 3.x.x
 3. Clone main.py and run the file.
 
