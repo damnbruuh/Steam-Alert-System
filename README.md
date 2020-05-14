@@ -1,5 +1,5 @@
 # Steam-Alert-System
-A simple Python script to determine the states of a player.
+A simple Python script to determine the states of a player using the Steam API.
 
 Standalone executable:
 
